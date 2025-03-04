@@ -3,3 +3,4 @@ test-trainer/
 swin-tiny-patch4-window7-224-finetuned-eurosat/
 vit-base-oxford-iiit-pets/
 2750/
+cifar/
